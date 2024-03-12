@@ -22,7 +22,7 @@ Before running the application, make sure to set the following environment varia
 2. Navigate to the project directory:
 
     ```bash
-    cd repository_name
+    cd kodland-test-python-pro
 
 3. Install virtual environment:
 
