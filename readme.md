@@ -39,6 +39,10 @@ Before running the application, make sure to set the following environment varia
     ```bash 
     pip install -r requirements.txt
 
+## Environment Variables
+
+Review the `.env-example` file to get an idea of how the environment variables that allow the app to run should be named.
+
 ## Local Execution
 
 - ```bash
