@@ -1,4 +1,4 @@
-# Flask Message Project
+# Flask Messaging Project
 
 This project is a web application developed with Flask that allows sending messages to Discord and Telegram channels using their respective APIs. The application is designed to receive HTTP requests and send messages to the specified channels in the request body.
 
