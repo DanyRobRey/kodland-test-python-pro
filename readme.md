@@ -41,7 +41,8 @@ Before running the application, make sure to set the following environment varia
 
 ## Local Execution
 
-- python main.py
+- ```bash
+  python main.py
 - The application will run on the specified port or on the default port 8000 if none is provided.
 
 
