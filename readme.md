@@ -59,7 +59,7 @@ Before running the application, make sure to set the following environment varia
   }
 
 
-  ### Send Messages to Telegram
+### Send Messages to Telegram
 
 - **URL:** `/messages/send-telegram`
 - **HTTP Method:** `POST`
