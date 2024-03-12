@@ -17,7 +17,7 @@ Before running the application, make sure to set the following environment varia
 1. Clone the project repository:
 
    ```bash
-   git clone https://github.com/your_username/repository_name.git
+   git clone https://github.com/DanyRobRey/kodland-test-python-pro.git
 
 2. Navigate to the project directory:
 
